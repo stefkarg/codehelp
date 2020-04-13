@@ -21,5 +21,4 @@ public class DateHelp {
 	public static long getSecondsFromDate(Date date) {
 		return date.getTime() / 1000;
 	}
-	
 }
